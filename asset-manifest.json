@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShowBuzz/static/css/main.334bdeb1.css",
+    "main.js": "/ShowBuzz/static/js/main.a8ef4f7b.js",
+    "static/media/search.svg": "/ShowBuzz/static/media/search.320fb616d3e311e4a4e4a1df5563cb87.svg",
+    "index.html": "/ShowBuzz/index.html",
+    "main.334bdeb1.css.map": "/ShowBuzz/static/css/main.334bdeb1.css.map",
+    "main.a8ef4f7b.js.map": "/ShowBuzz/static/js/main.a8ef4f7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.a8ef4f7b.js"
+  ]
+}
