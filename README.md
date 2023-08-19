@@ -8,11 +8,18 @@ ShowBuzz is a user-friendly React-based web application that allows users to sea
 - User-friendly interface with visually appealing design.
 
 ## Screenshots
-
-![Homepage](screenshots/HomePage.png)
-![Search Results](screenshots/search_results.png)
-![Movie Details](screenshots/movie_details.png)
-
+Title:
+![Homepage](https://github.com/jhaAvneesh/ShowBuzz/blob/main/HomePage.png)
+Landing Page:
+![Landing Page](https://github.com/jhaAvneesh/ShowBuzz/blob/main/Movies.png)
+Search Bar:
+![Movie Details](https://github.com/jhaAvneesh/ShowBuzz/blob/main/search%20bar.png)
+Search Results for Mirzapur(An Indian web-series):
+![Movie Details](https://github.com/jhaAvneesh/ShowBuzz/blob/main/Search%20Along%20with%20movie.png)
+Avengers Search:
+![Avengers](https://github.com/jhaAvneesh/ShowBuzz/blob/main/avengers%20search%20result.png)
+Harry Potter 
+![Harry Potter](https://github.com/jhaAvneesh/ShowBuzz/blob/main/harry-potter.png)
 ## Technologies Used
 
 - React: A JavaScript library for building user interfaces.
