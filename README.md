@@ -9,7 +9,7 @@ ShowBuzz is a user-friendly React-based web application that allows users to sea
 
 ## Screenshots
 
-![Homepage]()
+![Homepage](screenshots/HomePage.png)
 ![Search Results](screenshots/search_results.png)
 ![Movie Details](screenshots/movie_details.png)
 
