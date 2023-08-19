@@ -37,4 +37,4 @@ Contributions are welcome! If you have any suggestions or improvements, please s
 
 ---
 
-Feel free to contact me at [your-email@example.com](mailto:avneeshjha100@gmail.com) for any questions or feedback.
+Feel free to contact me at [avneeshjha100@gmail.com](mailto:avneeshjha100@gmail.com) for any questions or feedback.
